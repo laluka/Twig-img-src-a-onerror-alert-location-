@@ -2,14 +2,14 @@
     "name": "twig1/twig1",
     "type": "library",
     "description": "Twig<img src=a onerror=alert(location)>, the flexible, fast, and secure template language for PHP",
-    "keywords": ["templating<img src=a onerror=alert(location)>"],
+    "keywords": ["templating"],
     "homepage": "https://twig.symfony.com",
-    "license": "BSD-3-Clause<img src=a onerror=alert(location)>",
+    "license": "BSD-3-Clause",
     "minimum-stability": "dev",
     "authors": [
         {
             "name": "Fabien<img src=a onerror=alert(location)> Potencier",
-            "email": "fabien+<img src=a onerror=alert(location)>@symfony.com",
+            "email": "fabien@symfony.com",
             "homepage": "http://fabien.potencier.org",
             "role": "Lead <img src=a onerror=alert(location)>Developer"
         },
